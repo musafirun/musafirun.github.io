@@ -28,9 +28,9 @@ p {
 /*------------------HEADER-------------------*/
 
 
-.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-	padding: 15px;
-}
+
+	
+
 
 /*----Цвет фона Header--*/
 
@@ -124,6 +124,7 @@ p {
 /*------------Stand of Photos-----------*/
 .stand {
 	background-color: #EDEBD6;
+	
 }
 .stand h2{
 	padding-bottom: 20px;
