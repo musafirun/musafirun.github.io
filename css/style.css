@@ -174,7 +174,9 @@ p {
 	/*---------------POLEZNOYE-----------*/
 /*--------Kurs Dollara------*/
 
-
+.kurs {
+	background-color: #CBDBD7;
+}
 .kurs .doll {
 	font-family: "Noto SansRaleway";
 	
@@ -193,10 +195,14 @@ p {
 }
 /*--------Bus Schedule--------*/
 .avtob {
-	margin-top: 4px;
+	margin: 0 0 0 5px;
 }
-.avtob img {
+.panel img {
 	min-height: 22px;
+}
+.buster h3{
+	margin: 5px 0 0 0;
+
 }
 .row .time{
 	
@@ -209,8 +215,9 @@ p {
 }
  .row .seul p  {
 	margin-bottom: 8px;
-	line-height: 18px;
+	line-height: 15px;
 	font-family: "Lobster";
+	font-size: 1.5em;
 }
 /*-------- Calendar ------*/
 .calendar p{
