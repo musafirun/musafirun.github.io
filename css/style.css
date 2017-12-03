@@ -173,9 +173,11 @@ p {
 	
 	/*---------------POLEZNOYE-----------*/
 /*--------Kurs Dollara------*/
+
+
 .kurs .doll {
 	font-family: "Noto SansRaleway";
-	text-align: center;
+	
 }
 .kurs .doll .cifr {
 	font-size: 2.7em;
@@ -184,7 +186,7 @@ p {
 	
 }
 .kurs .doll .datak {
-	font-size: 1.4em;
+	font-size: 1.1em;
 	font-family: "Verdana";
 	
 
@@ -204,7 +206,7 @@ p {
 }
  .row .seul p  {
 	margin-bottom: 8px;
-	line-height: 15px;
+	line-height: 18px;
 	font-family: "Lobster";
 }
 /*-------- Calendar ------*/
