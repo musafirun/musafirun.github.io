@@ -53,6 +53,14 @@ p {
 .navbar-brand:hover  {
 	color: #fff!important;
 }
+.navbar-header a img{
+	margin-left: 15px;
+}
+.container ul li a{
+	margin-top: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
 
 	
 /*------Navigation------*/
