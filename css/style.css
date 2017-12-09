@@ -50,9 +50,7 @@ p {
 	-moz-transition: 0.2s ease-out;
 	-o-transition: 0.2s ease-out;
 }
-.navbar-brand:hover  {
-	color: #fff!important;
-}
+
 .navbar-header a img{
 	margin-left: 15px;
 }
@@ -83,6 +81,7 @@ p {
     text-decoration:none;
     cursor: pointer;
 }
+
 .nav>li>a:after {
     display: block;
     content: "";
@@ -179,7 +178,9 @@ p {
 }
 .kurs .doll {
 	font-family: "Noto SansRaleway";
-	
+}
+.kurs .doll p {
+	margin-bottom: 3px;
 }
 .kurs .doll .cifr {
 	font-size: 2.7em;
@@ -190,6 +191,7 @@ p {
 .kurs .doll .datak {
 	font-size: 1.1em;
 	font-family: "Verdana";
+	line-height: 12px;
 	
 
 }
@@ -216,29 +218,28 @@ p {
  .row .seul p  {
 	margin-bottom: 8px;
 	line-height: 15px;
-	font-family: "Lobster";
+	font-family: "Roboto";
 	font-size: 1.5em;
 }
-/*-------- Calendar ------*/
+/*------------ Calendar ---------*/
 .calendar p{
 	word-spacing: 1.2em;
-	margin-left: 12%;
+	
 	font-family: "Lato";
 	font-size: 1.5em;
 	font-weight:bold;
 	color: #000;
-	
-
 }
+
 .calendar .day {
 	display: block;
 	float: left;
 	margin-right: 19px;
-	background-color: #4ed2ff;
+	background-color: #efe93e;
 	text-align: center;
 	width: 40px;
 	border-radius: 20px;
 	font-family: "Lato";
-	color: #EF525B;
+	color: #e03636;
 	
 }
