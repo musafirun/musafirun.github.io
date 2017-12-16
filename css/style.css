@@ -177,13 +177,14 @@ p {
 	background-color: #CBDBD7;
 }
 .kurs .doll {
-	font-family: "Noto SansRaleway";
+	font-family: "Verdana";
+	
 }
 .kurs .doll p {
 	margin-bottom: 3px;
 }
 .kurs .doll .cifr {
-	font-size: 2.7em;
+	font-size: 2em;
 	margin-bottom: 5px;
 	
 	
@@ -219,7 +220,8 @@ p {
 	margin-bottom: 8px;
 	line-height: 15px;
 	font-family: "Roboto";
-	font-size: 1.5em;
+	font-size: 1.2em;
+	text-align: center;
 }
 /*------------ Calendar ---------*/
 .calendar p{
